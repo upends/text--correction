@@ -1,6 +1,6 @@
 # text--correction
 
-##correct spellings in the text document
+**correct spellings in the text document**
 
 ```python
 pip install -U textblob
